@@ -1,0 +1,41 @@
+[
+    {
+        "id": "cbeb8cad12374d0d8cf89f2d90559a6b",
+        "title": "Car Valley is a car dealership",
+        "fullPage": "https://i.ibb.co/kMsBJ7L/web-Dev-Home.png",
+        "subPage": [
+            "https://i.ibb.co/m0ynZQk/order1.png",
+            "https://i.ibb.co/JBXjx0D/add-Product.png",
+            "https://i.ibb.co/5vFyJ80/resgister1.png"
+        ],
+        "description": "Car Valley Little Car Seller's SPA website, through which both buyers and sellers can buy and sell their car.",
+        "features": [
+            "User Login & Regiser Eamil Password & Google",
+            "Admin make a new admin",
+            "User can order car",
+            "The user can cancel his order if he wants",
+            "Admin will be able to manage all orders",
+            "Admin will be able to add new cars"
+        ],
+        "githun": "https://github.com/Antardas/car-valley",
+        "live": "https://car-vallley.web.app/"
+    },
+    {
+        "id": "95f47d9cb7e84a758e37b0654eef4b79",
+        "title": "Food Zone",
+        "fullPage": "https://i.ibb.co/TqPhZqz/food-zooe-Home.png",
+        "subPage": [
+            "https://i.ibb.co/6Wpfw27/food-zone-customer-orders-list.png",
+            "https://i.ibb.co/xzJbx2m/food-zone-Orders-List.png"
+        ],
+        "description": "Food John is a third party organization delivering food to customers",
+        "features": [
+            "User Login & Regiser Eamil Password & Google",
+            "User can Order Food",
+            "The user can cancel his order if he wants",
+            "Add new Food Item"
+        ],
+        "githun": "https://github.com/Antardas/car-valley",
+        "live": "https://food-zoone.web.app/"
+    }
+]

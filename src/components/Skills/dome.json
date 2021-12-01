@@ -1,0 +1,50 @@
+[
+    {
+        "img": "https://i.ibb.co/q007GMx/html-ec102b63.png",
+        "name": "HTML"
+    },
+    {
+        "img": "https://i.ibb.co/sjnk5c2/css-29013fe6.png",
+        "name": "CSS"
+    },
+    {
+        "img": "https://i.ibb.co/pfT00wc/bootstrap.png",
+        "name": "Bootstrap"
+    },
+    {
+        "img": "https://i.ibb.co/3ysVQSV/tailwaind-4025b9f6.png",
+        "name": "Tailwind CSS"
+    },
+    {
+        "img": "https://i.ibb.co/sW2jt8p/image.png",
+        "name": "Javascript"
+    },
+    {
+        "img": "https://i.ibb.co/cbnqyNK/react-35639ed9.png",
+        "name": "React Js"
+    },
+    {
+        "img": "https://i.ibb.co/C837jC6/metarial-ui-4ee24f56.png",
+        "name": "Material UI"
+    },
+    {
+        "img": "https://i.ibb.co/FWJ84tj/firebase-bff5748e.png",
+        "name": "Firebase"
+    },
+    {
+        "img": "https://i.ibb.co/ZVJ7bhf/github-caeb9ff8.png",
+        "name": "Github"
+    },
+    {
+        "img": "https://i.ibb.co/Jk0NVp9/node-js-8030f6dd.png",
+        "name": "Node JS"
+    },
+    {
+        "img": "https://i.ibb.co/gr5W6cH/express-483b10d6.png",
+        "name": "Express JS"
+    },
+    {
+        "img": "https://i.ibb.co/N9KmR42/mongodb-70c82e5a.png",
+        "name": "MongoDB"
+    }
+]
